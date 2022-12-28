@@ -14,7 +14,6 @@
 				},
 				{
 					"name": "Hydrodynamics",
-					"complexity": "4",
 					"ssd": "111",
 					"interest": "3",
 					"bool": false
