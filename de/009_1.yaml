@@ -4,7 +4,6 @@ my:
     composition:
       dough:
       - Eier
-      - Zucker а
       - Mehl h
       cream:
       - Zucker
